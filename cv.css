@@ -1,0 +1,28 @@
+body{
+    background: url('353909-admin.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+}
+    #foto{
+        margin: 10px;
+        border: solid 4px #0a4f60;
+
+    }
+
+
+#principal{
+    border: solid 1px;
+    padding: 10px;
+    width: 80%;
+    margin: 0 auto;
+    background:#ffffff;
+    
+}
+legend{
+    border: solid 1px #1f5632;
+    padding: 5px;
+    font: wieght bold;
+    border-radius: 15px;
+    background: #a6daea;
+    
+}
